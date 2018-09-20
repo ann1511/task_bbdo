@@ -9,7 +9,7 @@ export class Cell extends React.Component {
         return (
             <Paper elevation='4'>
                 <Grid container>
-                    <Grid item xs={10}>
+                    <Grid item xs={6}>
                         <TextField
                             // label="Read Only"
                             multiline rowsMax="4"

@@ -17,7 +17,6 @@ export class Window extends React.Component {
                             fullWidth={true}
                             value={this.props.value}
                             onChange={this.props.onChange}
-                            
                         />
                     </Grid>
                     <Grid item xs='2'>
